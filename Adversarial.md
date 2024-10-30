@@ -12,3 +12,30 @@ Darknet Diaries Episode 115: Player Cheater Developer Spy (https://darknetdiarie
 
 
 ## h1 Adversarial mindset: c) Install Debian on Virtualbox. Report your work, including the environment (including host OS, the real physical computer used), the steps you took and their results.
+
+I had huge problems to install Virtualbox. At first I realised that I cant use my own computer as its not really mine its my employees (and yes, I know I should have check this out earlier). So I needed to use one of our old old computer but it took time to start it again as its been without any use for a long time. 
+
+Device name	Kilkkeet
+Processor	Intel(R) Core(TM) i5 CPU         760  @ 2.80GHz   2.53 GHz
+Installed RAM	8,00 GB
+Device ID	FD75B6F4-E9C5-43CE-A6CB-7259B372D9A8
+Product ID	00330-80000-00000-AA352
+System type	64-bit operating system, x64-based processor
+Edition	Windows 10 Pro
+Version	20H2
+Installed on	‎26/‎03/‎2021
+OS build	19042.1766
+Experience	Windows Feature Experience Pack 120.2212.4180.0
+
+I tried to install Virtualbox: ![image](https://github.com/user-attachments/assets/9225673e-d4fa-42d7-ad85-3f001644ecfd) but it said that it needs Microsoft Visual C ++ 2019 Redistributable package being installed first. So I tried to install that but ![image](https://github.com/user-attachments/assets/36a89527-e0fa-419c-b6ef-fdfdaf0d5010) but once again I couldnt install Virtualbox ![image](https://github.com/user-attachments/assets/1df9e511-17e3-4b5e-a89c-1844193a0a38)
+
+I tried many times and I ended up feeling tad desperate but I think I will solve this and my next steps are: 1. look at couple of videos about installing Microsoft Visula C ++ 2019 to find out what went wrong and probably ask also from chatgpt and if I still got problems 2. I ask help from my husband before Thursday and tried to get this done. 
+
+
+
+
+
+
+
+
+
