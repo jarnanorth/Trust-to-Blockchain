@@ -13,7 +13,7 @@ Darknet Diaries Episode 115: Player Cheater Developer Spy (https://darknetdiarie
 
 ## h1 Adversarial mindset: c) Install Debian on Virtualbox. Report your work, including the environment (including host OS, the real physical computer used), the steps you took and their results.
 
-I had huge problems to install Virtualbox. At first I realised that I cant use my own computer as its not really mine its my employees (and yes, I know I should have check this out earlier). So I needed to use one of our old old computer but it took time to start it again as its been without any use for a long time. 
+I had huge problems to install Virtualbox. At first I realised that I cant use my own computer as its my employer (and yes, I know I should have check this out earlier). So I needed to use one of our old computer but it took time to start it again as it´s been without any use for a very long time. 
 
 Device name	Kilkkeet
 Processor	Intel(R) Core(TM) i5 CPU         760  @ 2.80GHz   2.53 GHz
@@ -44,8 +44,8 @@ I tried many times and I ended up feeling tad desperate but I think I will solve
 
 # Update: 
 
-Most of the problems was sold out after I started my computer again couple of time and all 
-basic updates were done. I installed first Microsoft Visual C ++ 2019 Redistributable package and then satrted to install Virtual box. I have only few screenshots because I like to use Greenshot ![image](https://github.com/user-attachments/assets/f6b1ae8c-a028-4f66-b859-e285af692dd3) but its not the best option if you dont save your own screenshots right away because they disappear from Greenshot editor if you close your computer. 
+Most of the problems was sold out after I started my computer again couple of times and all 
+basic Microsoft updates were finally done.  Then I installed first Microsoft Visual C ++ 2019 Redistributable package and then satrted to install Virtual box. I have only few screenshots because I like to use Greenshot ![image](https://github.com/user-attachments/assets/f6b1ae8c-a028-4f66-b859-e285af692dd3) but its not the best option if you dont save your own screenshots right away because they disappear from Greenshot editor if you close your computer. 
 
 ![image](https://github.com/user-attachments/assets/f9947391-87b3-4be2-9f73-08a29c10ca6f)
 
