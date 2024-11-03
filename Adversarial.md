@@ -27,9 +27,29 @@ Installed on	‎26/‎03/‎2021
 OS build	19042.1766
 Experience	Windows Feature Experience Pack 120.2212.4180.0
 
-I tried to install Virtualbox: ![image](https://github.com/user-attachments/assets/9225673e-d4fa-42d7-ad85-3f001644ecfd) but it said that it needs Microsoft Visual C ++ 2019 Redistributable package being installed first. So I tried to install that but ![image](https://github.com/user-attachments/assets/36a89527-e0fa-419c-b6ef-fdfdaf0d5010) but once again I couldnt install Virtualbox ![image](https://github.com/user-attachments/assets/1df9e511-17e3-4b5e-a89c-1844193a0a38)
+I tried to install Virtualbox:
+
+![image](https://github.com/user-attachments/assets/9225673e-d4fa-42d7-ad85-3f001644ecfd) 
+
+but it said that it needs Microsoft Visual C ++ 2019 Redistributable package being installed first. So I tried to install that but 
+
+![image](https://github.com/user-attachments/assets/36a89527-e0fa-419c-b6ef-fdfdaf0d5010) 
+
+but once again I couldnt install Virtualbox 
+
+![image](https://github.com/user-attachments/assets/1df9e511-17e3-4b5e-a89c-1844193a0a38)
 
 I tried many times and I ended up feeling tad desperate but I think I will solve this and my next steps are: 1. look at couple of videos about installing Microsoft Visula C ++ 2019 to find out what went wrong and probably ask also from chatgpt and if I still got problems 2. I ask help from my husband before Thursday and tried to get this done. 
+
+
+# Update: 
+
+Most of the problems was sold out after I started my computer again couple of time and all 
+basic updates were done. I installed first Microsoft Visual C ++ 2019 Redistributable package and then satrted to install Virtual box. I have only few screenshots because I like to use Greenshot ![image](https://github.com/user-attachments/assets/f6b1ae8c-a028-4f66-b859-e285af692dd3) but its not the best option if you dont save your own screenshots right away because they disappear from Greenshot editor if you close your computer. 
+
+
+
+
 
 
 
