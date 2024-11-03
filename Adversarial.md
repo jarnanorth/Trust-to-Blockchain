@@ -47,6 +47,12 @@ I tried many times and I ended up feeling tad desperate but I think I will solve
 Most of the problems was sold out after I started my computer again couple of time and all 
 basic updates were done. I installed first Microsoft Visual C ++ 2019 Redistributable package and then satrted to install Virtual box. I have only few screenshots because I like to use Greenshot ![image](https://github.com/user-attachments/assets/f6b1ae8c-a028-4f66-b859-e285af692dd3) but its not the best option if you dont save your own screenshots right away because they disappear from Greenshot editor if you close your computer. 
 
+![image](https://github.com/user-attachments/assets/f9947391-87b3-4be2-9f73-08a29c10ca6f)
+
+![image](https://github.com/user-attachments/assets/f584c85e-7696-4e1d-b1e3-767ff7382291)
+
+
+
 
 
 
