@@ -10,7 +10,7 @@ Scheiner (2015) tells that the roots of public-key cryptography trace back to 19
 There are two main reasons why the public key is not used to encrypt messages directly but instead to encrypt keys:
 
       1. The public-key algorithm is slow, whereas symmetric algorithms are significantly faster.
-      2.Public-key systems are vulnerable to chosen-plaintext attacks.
+      2. Public-key systems are vulnerable to chosen-plaintext attacks.
       
 In a hybrid cryptosystem, the public key is used to secure and share a session key, which in turn is used with symmetric algorithms to encrypt message traffic. Ralph Merkle invented the first public-key cryptographic structure, and his method was based on "puzzles."
 
