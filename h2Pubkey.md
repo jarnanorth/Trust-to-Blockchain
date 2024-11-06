@@ -31,7 +31,11 @@ I thought I was following the instructions exactly, but I still couldn't succeed
 
 ![image](https://github.com/user-attachments/assets/219e2925-f75f-4362-89ec-546be9e4fea5)
 
+Update (after due time): I checked my own screenshot again and finally saw why its not working and the reason is so stupid: misspelling. 
 
+![image](https://github.com/user-attachments/assets/0675dfe5-9f6a-4040-8a4d-e5937cafe53a)
+
+So now I start to do this again.
 
 
 ## c) Other tool
