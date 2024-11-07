@@ -35,12 +35,59 @@ Update (after due time): I checked my own screenshot again and finally saw why i
 
 ![image](https://github.com/user-attachments/assets/0675dfe5-9f6a-4040-8a4d-e5937cafe53a)
 
-So now I start to do this again.
+1. Creating a keypair (public & secret key) using command $ gpg --gen-key
+
+
+   ![2024-11-06 18_30_35-Window](https://github.com/user-attachments/assets/c0cff2d1-3bfb-4b90-afce-5c0e13000ca9)
+
+
+2. Exporting my public key to Alice. Starting using command $ cd  and $ gpg --export --armor --output jarna.pub
+   
+
+   ![image](https://github.com/user-attachments/assets/1e1a003d-ebe6-437b-9358-03d204856186)
+
+
+3. Creating folder to simulate Alice so that I have a another user for this test. Starting with commands $ cd  and $ mkdir alice/  and $ chmod og-rwx alice/ to create folder in home directory.
+
+
+   ![image](https://github.com/user-attachments/assets/9f652a08-dde1-4636-94fe-bdaa19fef5ed)
+
+
+4. Creating Alice`s own keypair using command $ gpg --homedir . --gen-key
+
+
+![image](https://github.com/user-attachments/assets/bf5320f0-3da2-4411-96c3-7a67d6961eff)
+
+
+
+
+5. Importing my key to Alice and verifying it´s really mine signing it using command $ gpg --homedir . --sign-key  .... 
+
+  ![image](https://github.com/user-attachments/assets/75a49bf8-7b9c-4785-beaf-e46da6db7a7c)
+
+
+6. Seeing the trust between me & Alice
+
+   ![image](https://github.com/user-attachments/assets/fd7f8494-3570-43eb-9759-c5bc0d7a9489)
+
+   ![image](https://github.com/user-attachments/assets/19ac0134-fd1e-48e4-83cb-6ef5f911452d)
+
+
+7. Exporting Alice`s key, importing it to me and signing the trusted key.
+8. Alice sends a message to me
+9. Encrypting the message
+10. Decrypting and verifying the message
+
+
+
+
+   
+
 
 
 ## c) Other tool
 
- I didn’t have any more time for this, and I need to learn to ask for help right away instead of just continuing to try on my own.
+ I didn’t have any more time for this, and I need to learn to ask for help right away instead of just continuing to try on my own. Later on I realised that my biggest problem is timing and I need to reorganize my weeks so that I dont even try to do these assingments in the evening when I am too exhausted after long days in really stormy situation at work and literally cant see anything anymore. Its better for me to wake up earlier and use early morning hours for these assingments and save evenings for recovering.
 
 ## d) Eve and Mallory
 
