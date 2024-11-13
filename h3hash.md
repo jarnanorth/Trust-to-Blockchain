@@ -35,7 +35,30 @@ Schneier 2015: Applied Cryptography: Chapter 2 https://learning.oreilly.com/libr
 
 
 
-Karvinen 2022: Cracking Passwords with Hashcat
+Karvinen 2022: Cracking Passwords with Hashcat https://terokarvinen.com/2022/cracking-passwords-with-hashcat/:
+
+Tried this one but it didnt work:
+
+![image](https://github.com/user-attachments/assets/2a0eec97-5a0e-44d4-9aee-3f0fdefda9a6)
+
+Asked help from ChatGTP askin what would be good way to get rockyou and ChatGTP recommend this: 
+
+![image](https://github.com/user-attachments/assets/7240c831-7349-4e48-ac21-89566890cd3b)
+
+and then I managed to continue same way than in teachers instructions:
+
+![image](https://github.com/user-attachments/assets/1a11d7d2-2cf2-4345-8733-767d93c62b5a)
+
+But then I crash straight in to problem which is going stole too much of my time: 
+
+![image](https://github.com/user-attachments/assets/10557b6e-969e-4837-901a-47426b0d0f71)
+
+
+
+
+
+
+
 
 ## a) Billion dollar busywork. 
 Command 'echo -n "hello"|sha256sum' prints a hash. Try adding something to the string, e.g. 'echo -n 'hello asdf'|sha256sum'. What do you have to add to get a hash that starts with a zero? 
