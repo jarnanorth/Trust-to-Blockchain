@@ -53,6 +53,11 @@ Command 'echo -n "hello"|sha256sum' prints a hash. Try adding something to the s
 ## b) Compare hash.
 Create a small text file. Take it's hash (e.g. 'sha256sum tero.txt'). Change one letter. Take the hash again. Compare hashes. What do you notice?
 
+Hash changed completely: 
+
+![image](https://github.com/user-attachments/assets/0a08c8c8-8fd1-44e2-b730-db93187ee6ce)
+
+
 ## c) Hashcat. 
 Install hashcat and test that it works.
 
