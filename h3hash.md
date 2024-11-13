@@ -43,7 +43,12 @@ Schneier 2015: Applied Cryptography: Chapter 2 https://learning.oreilly.com/libr
 
 
 ## a) Billion dollar busywork. 
-Command 'echo -n "hello"|sha256sum' prints a hash. Try adding something to the string, e.g. 'echo -n 'hello asdf'|sha256sum'. What do you have to add to get a hash that starts with a zero? 
+Command 'echo -n "hello"|sha256sum' prints a hash. Try adding something to the string, e.g. 'echo -n 'hello asdf'|sha256sum'. What do you have to add to get a hash that starts with a zero? I have to add something to "hello" and then do it repeatedly until find an output hash that starts with 0.
+
+
+![image](https://github.com/user-attachments/assets/bd77c8f4-dccf-4ec8-9001-b37bb7b0916d)
+
+
 
 ## b) Compare hash.
 Create a small text file. Take it's hash (e.g. 'sha256sum tero.txt'). Change one letter. Take the hash again. Compare hashes. What do you notice?
@@ -75,3 +80,17 @@ But then I crash straight in to problem which is going stole too much of my time
 Crack this hash: 21232f297a57a5a743894a0e4a801fc3
 
 ## e) How can you make a password that's protected against a dictionary attack?
+
+                1. use randomly generated passphrases
+                
+                2. include a mix of characters
+                
+                3. avoid common passwords and patterns
+                
+                4. use a password manager
+                
+                5. lenght over complexity
+
+
+
+https://www.kyberturvallisuuskeskus.fi/en/ajankohtaista/ohjeet-ja-oppaat/salasanat-haltuun
